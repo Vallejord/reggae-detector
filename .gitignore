@@ -1,0 +1,20 @@
+/firmware_software/AgroBoard_V2.0/.pio
+/firmware_software/AgroBoard_V2.0/.vscode/.browse.c_cpp.db*
+/firmware_software/AgroBoard_V2.0/.vscode/c_cpp_properties.json
+/firmware_software/AgroBoard_V2.0/.vscode/launch.json
+/firmware_software/AgroBoard_V2.0/.vscode/ipch
+/firmware_software/AgroBoard_V2.0/.vscode
+/firmware_software/ForTrueDev/WS/RecvJSON/data/*
+.vscode/*
+workspace.*
+.code-workspace*
+firmware_software/AgroBoard_V2.0/.vscode/c_cpp_properties.json
+firmware_software/AgroBoard_V2.0/.vscode/extensions.json
+firmware_software/AgroBoard_V2.0/.vscode/launch.json
+firmware_software/AgroBoard_V2.0_Arduino*
+
+# python ignores
+*__pycache__
+__pycache__/
+*.pytest_cache
+*.benchmarks
